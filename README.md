@@ -15,7 +15,7 @@ quality variations.
 
 The complete dataset is available through Zenodo.
 
-DOI: [To be assigned]
+DOI: https://doi.org/10.5281/zenodo.22741195
 
 ## Citation
 
