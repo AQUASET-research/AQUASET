@@ -1,5 +1,4 @@
-# AQUASET (Affective Physiological QUAlity-of-Experience Streaming
-service dataSET)
+# AQUASET (Affective Physiological QUAlity-of-Experience Streaming service dataSET)
 
 ## Dataset
 
